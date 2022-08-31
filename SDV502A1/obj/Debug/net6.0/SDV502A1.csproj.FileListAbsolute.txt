@@ -1,0 +1,12 @@
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.csproj.AssemblyReference.cache
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.AssemblyInfoInputs.cache
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.AssemblyInfo.cs
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.csproj.CoreCompileInputs.cache
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\bin\Debug\net6.0\SDV502A1.deps.json
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\bin\Debug\net6.0\SDV502A1.dll
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\bin\Debug\net6.0\SDV502A1.pdb
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.dll
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\refint\SDV502A1.dll
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\SDV502A1.pdb
+C:\Users\Katie\source\repos\SDV502A122\SDV502A1\obj\Debug\net6.0\ref\SDV502A1.dll
